@@ -1,8 +1,9 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
 ### DATE:                           
 ### Slot: 4H2-1
-### Name: G Venkata Pavan Kumar
-### REGISTER NUMBER : 212221240013
+### Name: Palamakula Deepika
+### REGISTER NUMBER : 212221240035
+
 ### AIM: 
 To write a python program to simulate the process of stacking plates.
 ### Algorithm:
