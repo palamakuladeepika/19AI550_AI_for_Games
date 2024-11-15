@@ -1,8 +1,8 @@
 # Ex.No: 4  Implementation of Snake game using Steering behaviors
 ### DATE:                           
 ### Slot: 4H2-1
-### Name: G Venkata Pavan Kumar
-### REGISTER NUMBER : 212221240013
+### Name: Palamakula Deepika
+### REGISTER NUMBER : 212221240035
 ### AIM: 
 To write a python program to simulate the snake game using steering behaviors
 ### Algorithm:
